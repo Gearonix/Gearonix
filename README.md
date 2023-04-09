@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**Gearonix/Gearonix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me:
 
-Here are some ideas to get you started:
+I am a Frontend Developer from Moscow Region. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[💻 My Portfolio](https://gearonixx.com) <br/>
+
+---
+
+### 🛠 Skills:
+
+[![My Skills](https://skillicons.dev/icons?i=react,next,css,nodejs,redux,js,ts,scss,webpack,github,gulp,tailwind)](https://skillicons.dev)
+
+---
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gearonix&layout=compact&theme=vision-friendly-dark)](https://github.com/Gearonix)
+
+---
+
