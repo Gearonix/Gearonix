@@ -14,7 +14,7 @@ I am a Frontend Developer from Moscow Region.
 
 ---
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gearonix&layout=compact&theme=vision-friendly-dark)](https://github.com/Gearonix)
+[![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gearonix&layout=compact&theme=vision-friendly-dark)](https://github.com/Gearonix)
 
 ---
 
